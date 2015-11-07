@@ -1,2 +1,3 @@
 # hello-world
-tests
+
+I am a student. I like music.
